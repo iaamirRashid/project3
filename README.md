@@ -4,4 +4,7 @@
 
 <form>
   <input placeholder="enter the name" name="content" type="text" />
+  <br><br/>
+  <textarea placeholder="enter the name" name="content">content</textarea>
+  <button>submit</button>
 </form>
